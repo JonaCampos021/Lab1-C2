@@ -65,5 +65,5 @@ app = QApplication(sys.argv)
 #Cewamos uua instancia de la ventana
 ventana = MascotasWindow()
 ventana.show()
-#Se ejecuta el bucle de eventos de la aplicación
+#Se ejecuta el bucle de eventos de la aplicación...
 sys.exit(app.exec_())
